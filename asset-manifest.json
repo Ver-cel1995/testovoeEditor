@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/testovoeEditor/static/css/main.6b0b02fd.css",
+    "main.js": "/testovoeEditor/static/js/main.94ce9cca.js",
+    "static/js/453.bdecb8cd.chunk.js": "/testovoeEditor/static/js/453.bdecb8cd.chunk.js",
+    "index.html": "/testovoeEditor/index.html",
+    "main.6b0b02fd.css.map": "/testovoeEditor/static/css/main.6b0b02fd.css.map",
+    "main.94ce9cca.js.map": "/testovoeEditor/static/js/main.94ce9cca.js.map",
+    "453.bdecb8cd.chunk.js.map": "/testovoeEditor/static/js/453.bdecb8cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b0b02fd.css",
+    "static/js/main.94ce9cca.js"
+  ]
+}
